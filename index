@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YSG Japan Day Tours</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 50px 20px; background-color: #f8f9fa; color: #333; }
+        h1 { color: #1a73e8; font-size: 2.2rem; }
+        p { font-size: 1.2rem; line-height: 1.6; max-width: 600px; margin: 20px auto; }
+        .btn { display: inline-block; background-color: #1a73e8; color: #fff; padding: 12px 24px; border-radius: 5px; text-decoration: none; font-size: 1rem; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Japan Travel Made Simple</h1>
+    <p>此公司提供冲绳、北海道及本州一日游行程，价格实惠，提供中英日法语导游服务。</p>
+    <a href="#" class="btn">联系我们 / Contact Us</a>
+</body>
+</html>
